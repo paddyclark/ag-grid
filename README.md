@@ -15,7 +15,7 @@ It delivers [outstanding performance](https://www.ag-grid.com/example.php?utm_so
 
 
 Features
---------------
+--------
 
 Besides the standard set of features you'd expect from any grid:
 
